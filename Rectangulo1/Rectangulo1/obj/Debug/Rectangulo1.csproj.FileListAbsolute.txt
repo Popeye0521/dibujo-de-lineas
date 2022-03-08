@@ -1,0 +1,17 @@
+C:\Users\JOHAN\source\repos\Rectangulo1\Rectangulo1\bin\Debug\Rectangulo1.exe.config
+C:\Users\JOHAN\source\repos\Rectangulo1\Rectangulo1\bin\Debug\Rectangulo1.exe
+C:\Users\JOHAN\source\repos\Rectangulo1\Rectangulo1\bin\Debug\Rectangulo1.pdb
+C:\Users\JOHAN\source\repos\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.csproj.AssemblyReference.cache
+C:\Users\JOHAN\source\repos\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.Form1.resources
+C:\Users\JOHAN\source\repos\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.Properties.Resources.resources
+C:\Users\JOHAN\source\repos\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.csproj.GenerateResource.cache
+C:\Users\JOHAN\source\repos\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.csproj.CoreCompileInputs.cache
+C:\Users\JOHAN\source\repos\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.exe
+C:\Users\JOHAN\source\repos\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.pdb
+C:\Users\Emanuel\OneDrive - Universidad Autónoma Latinoamericana\Desktop\1\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.csproj.AssemblyReference.cache
+C:\Users\Emanuel\OneDrive - Universidad Autónoma Latinoamericana\Desktop\1\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.Form1.resources
+C:\Users\Emanuel\OneDrive - Universidad Autónoma Latinoamericana\Desktop\1\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.Properties.Resources.resources
+C:\Users\Emanuel\OneDrive - Universidad Autónoma Latinoamericana\Desktop\1\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.csproj.GenerateResource.cache
+C:\Users\Emanuel\OneDrive - Universidad Autónoma Latinoamericana\Desktop\1\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\OneDrive - Universidad Autónoma Latinoamericana\Desktop\1\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.exe
+C:\Users\Emanuel\OneDrive - Universidad Autónoma Latinoamericana\Desktop\1\Rectangulo1\Rectangulo1\obj\Debug\Rectangulo1.pdb
